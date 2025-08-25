@@ -10,3 +10,11 @@ O objetivo deste projeto foi desenvolver uma página web que facilite a publica�
 
 ### Agradecimentos
 Agradeço ao meu orientador, cuja orientação foi fundamental para a realização deste trabalho e expresso minha gratidão à universidade e ao programa PIBIC pelo suporte financeiro, contribuindo de maneira significativa para minha formação acadêmica e profissional.
+
+<br><br>
+
+<div align=center>
+ 
+ ![imagem do certificado](https://github.com/analuisaleal/IniciacaoCientifica/blob/main/1731442511300.jpg)
+</div>
+ 
